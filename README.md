@@ -4,7 +4,7 @@
 *Tulisan miring mengunakan 1 bintang*
 ~~tulisan coret menggunakan miring gaya~~
 
-1.Merkurius
+1. Merkurius
 2. Venus 
 3. Bumi
 
